@@ -1,0 +1,6 @@
+requirements
+
+```plaintext
+numpy
+pandas
+mlxtend
